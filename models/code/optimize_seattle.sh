@@ -1,0 +1,1 @@
+python optimize_price.py --seq_len=1 --model=node --nblocks=10 --price=0 --dataset=seattle

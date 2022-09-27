@@ -1,0 +1,1 @@
+python optimize_price.py --seq_len=1 --model=node --nblocks=15 --price=0 --dataset=sfpark

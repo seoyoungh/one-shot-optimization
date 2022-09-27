@@ -1,0 +1,1 @@
+python run.py --dataset=seattle --initial_coeff_value=0.5 --lr=5e-4 --model=node --seq_len=1 --nblocks=10 --decay=5e-5
