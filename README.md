@@ -1,15 +1,16 @@
 # Prediction-based One-shot Dynamic Parking Pricing
 ## Introduction
-This is the repository of our accepted CIKM 2022 paper "Prediction-based One-shot Dynamic Parking Pricing". Paper is available on [arxiv](https://arxiv.org/abs/2208.14231). You can also download data [here](https://drive.google.com/drive/folders/1M0rzyiOHNzTMBdXMsDuQlSQRLqLerXX9?usp=sharing).
+This is the repository of our accepted CIKM 2022 paper "Prediction-based One-shot Dynamic Parking Pricing". Paper is available on [arxiv](https://arxiv.org/abs/2208.14231). You can also download data [here](https://www.dropbox.com/scl/fo/g2pmiteok9buoqhzfj69o/h?rlkey=67ti0ozbjb3x4fro13vc5gnv5&dl=0).
 
 ## Citation
 If you find this code useful, you may cite us as:
 ```
-@article{hong2022prediction,
-  title={Prediction-based One-shot Dynamic Parking Pricing},
-  author={Hong, Seoyoung and Shin, Heejoo and Choi, Jeongwhan and Park, Noseong},
-  journal={arXiv preprint arXiv:2208.14231},
-  year={2022}
+@inproceedings{hong2022prediction,
+author = {Hong, Seoyoung and Shin, Heejoo and Choi, Jeongwhan and Park, Noseong},
+title = {Prediction-based One-shot Dynamic Parking Pricing},
+year = {2022},
+booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management (CIKM)},
+pages = {748–757},
 }
 ```
 
